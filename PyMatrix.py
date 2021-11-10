@@ -95,4 +95,4 @@ while True:
     choice(l),
     choice(l))
     slp(0.3)
-    color=choice(tup)
+    #color=choice(tup)
