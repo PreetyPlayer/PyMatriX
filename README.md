@@ -1,2 +1,3 @@
-# coloring_text
-text have random colors.
+Mtrix Effect For Python Code
+
+Required >>>Colorama,python3
